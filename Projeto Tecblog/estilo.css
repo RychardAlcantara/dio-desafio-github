@@ -1,0 +1,74 @@
+    .cabecalho {
+    background: rgb(247, 203, 5);
+    text-align: center;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+    padding: 10px;
+    color: white;
+}    
+body {
+    margin: 0px;
+    
+
+   
+}
+span {
+    color: rgb(75, 74, 74);
+}
+.cabecalho a:hover {
+    color: rgb(247, 203, 5);
+    background: white;
+}
+.postagem1 {
+    width: 650px;
+    margin-left: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 30px;  
+    
+           
+}
+h2{
+    color: rgb(247, 203, 5);
+}
+.rodape {
+    border: 1px solid rgb(75, 74, 74);
+    background: rgb(124, 122, 122);
+    text-align: center;
+}
+.postagem_recente {
+    width: 300px;
+    float: right;
+    margin-right: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+    
+    
+
+}
+.bord {
+    background: rgb(226, 226, 226);
+    color: rgb(94, 93, 93);
+    padding: 5px;
+
+}
+.titulo {
+    line-height:0px
+    
+}
+.postagem_recente a:hover {
+    
+    background: rgb(241, 241, 241);
+    
+}
+.postagem_recente a {
+    
+    font-size: 20px;
+    line-height:25px;
+    
+}
